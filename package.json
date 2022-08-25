@@ -1,0 +1,18 @@
+{
+  "name": "payfit-technical-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solutions_template.ts\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "scripts": {
+    "start": "ts-node solution_template.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteve Martín",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13"
+  }
+}
